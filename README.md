@@ -1,5 +1,5 @@
 # tictactoe
-simple implementation of the classic game Tic-Tac-Toe as a task from unity course
+simple implementation of the classic game Tic-Tac-Toe as a task from udemy course
 
  The game is developed in C# and consists of a console application where players can play against each other.
  
